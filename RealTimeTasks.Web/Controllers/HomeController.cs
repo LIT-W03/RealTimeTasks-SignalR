@@ -21,6 +21,7 @@ namespace RealTimeTasks.Web.Controllers
 
         public ActionResult Login()
         {
+            //show the login page
             return View();
         }
 
